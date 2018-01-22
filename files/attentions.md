@@ -5,6 +5,7 @@
 
 ### function
 - sizeof()
+- rand()
 - cin/cout 管道>>
 
 ### some skills
